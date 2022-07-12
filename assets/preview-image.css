@@ -1,5 +1,5 @@
 :root{
-    --preview-img-width-height: 100px;
+    --preview-img-width-height: 120px;
 }
 
 .wrapper-preview-img{
@@ -23,7 +23,7 @@
     transition: all 0.2s;
     box-shadow: 0px 2px 4px 0px rgb(0 0 0 / 12%);
 }
-.wrapper-preview-img input[type="file"]{ 
+.wrapper-preview-img input[type="file"]{
     display: none;
 }
 
